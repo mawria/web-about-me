@@ -4,17 +4,22 @@ body {
     font-size: 12px;
 }
 
-
-
 h1 {
     text-align-last: center;
 }
 
-
-img {
-    border: px solid black;
-    align-content: center;
-}
 a{
     color:aliceblue
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: #ffdef0;
+}
+
+th, td {
+    border: 3px solid #050004; 
+    padding: 8px; 
+    text-align: center;
 }
